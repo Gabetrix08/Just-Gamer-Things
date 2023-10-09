@@ -24,8 +24,11 @@ p{
   
 .jgt-img{
   display: block;
+  height: 300px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 150px;
 }
 
 
@@ -42,8 +45,11 @@ margin-bottom: 150px
 
 .jgt-esports-img{
 display: block;
+height: 300px;
+width: 300px;
 margin-left: auto;
 margin-right: auto;
+border-radius: 150px;
 }
 
 .abt-our-server{
