@@ -1,0 +1,59 @@
+.JGT-header {
+  height: 0px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+
+  background-color: rgb(0, 0, 0);
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(228, 228, 228);
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.JGT-button{
+margin-top: 10px;
+margin-left: 15px;
+width: 100px;
+}
+
+.middle-section {
+  flex: 1;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 70px;
+  margin-right: 35px;
+  max-width: 300px;
+  display: flex;
+  align-items: center;
+}
+
+.JGT-TITLE{
+  font-size: 38px;
+  margin-top: 5px;
+}
+
+.right-section {
+  width: 180px;
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+}
+
+.Esports-button{
+  margin-top: 10px;
+  margin-right: 15px;
+}

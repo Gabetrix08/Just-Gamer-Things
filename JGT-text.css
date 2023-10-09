@@ -1,0 +1,43 @@
+.JGT-TITLE{
+  color: rgb(226, 134, 47);
+  font-size: px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.jgt-esports-description{
+color: rgb(255, 255, 255);
+text-align: left;
+
+}
+
+.jgt-description{
+color: rgb(255, 255, 255);
+text-align: left;
+
+}
+
+
+.jgt-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.jgt-esports-img{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.abt-our-server{
+margin-top: 100px;
+color: rgb(192, 110, 33);
+font-size: 25px ;
+text-align: center;
+}
+
+.esports-join{
+color: rgb(192, 110, 33);
+font-size: 25px;
+}

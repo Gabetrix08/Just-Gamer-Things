@@ -1,0 +1,35 @@
+  .JGT-button{
+  background-color: rgb(255, 184, 118);
+  padding-top: 6px;
+  padding-bottom: 6px;
+  padding-left: 6px;
+  padding-right: 6px;
+  border-radius: 8px;
+  border-style: solid;
+  
+  }
+  
+  .JGT-button:hover{
+  background-color: rgb(165, 112, 42);
+  color: white;
+  cursor: pointer;
+  }
+  
+  .JGT-button:active{
+  box-shadow: 2px, 4px, 5px, black;
+  
+  }
+
+  .Esports-button{
+    background-color: rgb(243, 223, 40);
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 6px;
+    padding-right: 6px;
+    border-radius: 8px;
+    }
+    
+    .Esports-button:hover{
+    background-color: rgb(255, 255, 91);
+    cursor: pointer;
+    }
